@@ -1,0 +1,6 @@
+node_modules
+**/*.js
+**/*.json
+**/*.spec.ts
+setup-jest.ts
+e2e/**
